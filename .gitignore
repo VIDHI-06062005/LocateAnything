@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output Images
+outputs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+venv/
+datasets/
+outputs/
+results/
+backup/
+.git_backup/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
